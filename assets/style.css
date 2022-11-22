@@ -31,10 +31,13 @@ a:link{
     grid-area: profile;
     width: 150px;
     display: inline-block;
+    padding-top: 20px;
     border-radius: 800px;
-    border-style: solid;
+    border-spacing: 20px;
     border-width: 5px;
     border-color: var(--your-pink);
+
+    border-style: solid;
 }
 
 .image {
